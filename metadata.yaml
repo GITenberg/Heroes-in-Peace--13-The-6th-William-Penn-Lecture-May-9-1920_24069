@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7713
     wikipedia: http://en.wikipedia.org/wiki/John_Haynes_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24069#Heroes-in-Peace--13-The-6th-William-Penn-Lecture-May-9-1920
 gutenberg_issued: '2007-12-29'
 gutenberg_type: Text
 identifiers:
