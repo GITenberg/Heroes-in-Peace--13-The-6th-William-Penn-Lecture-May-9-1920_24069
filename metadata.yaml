@@ -1,0 +1,27 @@
+_repo: Heroes-in-Peace--13-The-6th-William-Penn-Lecture-May-9-1920_24069
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, John Haynes
+    birthdate: 1879
+    deathdate: 1964
+    gutenberg_agent_id: '7713'
+    url: http://www.gutenberg.org/2009/agents/7713
+    wikipedia: http://en.wikipedia.org/wiki/John_Haynes_Holmes
+description: ''
+gutenberg_issued: '2007-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heroes'
+- !lcc 'BX'
+title: "Heroes in Peace\r\nThe 6th William Penn Lecture, May 9, 1920"
+url: http://www.gutenberg.org/ebooks/24069
